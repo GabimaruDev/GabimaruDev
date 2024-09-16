@@ -1,1 +1,2 @@
-![IamGabimaru](https://leetcard.jacoblin.cool/IamGabimaru?theme=dark&font=Black%20Ops%20One&ext=heatmap)
+https://leetcode.com/u/IamGabimaru/
+![IamGabimaru](https://leetcard.jacoblin.cool/IamGabimaru?theme=dark&ext=heatmap)
