@@ -1,4 +1,4 @@
-<h1 align="center">Привет, я Габимару <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
+<h1 align="center">Привет, я Илья <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
 <h2 align="center">
     <a href="https://leetcode.com/u/IamGabimaru/">
