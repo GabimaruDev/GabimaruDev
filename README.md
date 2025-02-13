@@ -35,7 +35,6 @@
 
 <p>
     <a href="https://git.com" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" title="Git" width="40" height="40" /></a>
-    <a href="https://vercel.com/" target="_blank" rel="noreferrer"><img src="https://static.netify.ai/logos/v/e/r/irepry/icon.png?v=1" alt="Vercel" title="Vercel" width="40" height="40"/></a>
     <a href='https://core.telegram.org/' target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png?20220101141644" title="Telegram"  alt="Telegram" width="40" height="40"/></a>&nbsp;
     <a href='https://discord.com/developers/docs/intro' target="_blank" rel="noreferrer"><img src="https://github.com/StasKobles/StasKobles/blob/main/discord-mark-blue.svg" title="Discord"  alt="Discord" width="40" height="40"/></a>&nbsp;
 </p>
@@ -46,4 +45,4 @@
 </p>
 
 
-### 📫&nbsp;Связаться со мной:<br />[My Telegram](https://t.me/GabimaruDevastated)
+### Связаться со мной:<br />[Telegram](https://t.me/GabimaruDevastated)
