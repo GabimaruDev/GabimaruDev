@@ -24,7 +24,7 @@
 
 ### ⚙️&nbsp;Конфигурация
 <p>
-    <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" alt="Webpack" title="Webpack" width="40" height="40"/></a>
+    <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-plain.svg" alt="Webpack" title="Webpack" width="40" height="40"/></a>
     <a href='https://vitejs.dev/' target="_blank" rel="noreferrer"><img src="https://vitejs.dev/logo.svg" title="Vite"  alt="Vite" width="40" height="40"/><a/>&nbsp;
     <a href="https://prettier.io/" target="_blank" rel="noreferrer"><img src="https://prettier.io/icon.png" title="Prettier" alt="Prettier" width="40" height="40" /></a>&nbsp;
     <a href="https://eslint.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" title="ESLint" alt="ESLint" width="40" height="40" /></a>&nbsp;
