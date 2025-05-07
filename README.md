@@ -2,7 +2,7 @@
 
 <h2 align="center">
     <a href="https://leetcode.com/u/GabimaruDevastated/">
-        <img src="https://leetcard.jacoblin.cool/GabimaruDevastated?theme=dark&ext=heatmap" alt="">
+        <img src="https://leetcard.jacoblin.cool/GabimaruDev?theme=dark&ext=heatmap" alt="">
         <img src="https://leetcode-badge-showcase.vercel.app/api?username=GabimaruDevastated&theme=dark&border=border&animated=true" alt="">
     </a>
 </h2>
